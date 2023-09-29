@@ -117,7 +117,7 @@ out = layers.Dense(n_classes, activation='softmax',
 
 Ниже приведена диаграмма модели.
 
-![model](https://github.com/rugewit/Sentence-Classification-CNN/model.png)
+![model](https://github.com/rugewit/Sentence-Classification-CNN/blob/main/model.png)
 
 ### Параметры обучения
 
